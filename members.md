@@ -1,5 +1,5 @@
 # Төсөлд оролцсон сурагчид
 
-* Ж.Дадин :octocat:
+* :octocat: Ж.Дадинcүрэн ([bambar1012](https://github.com/git1234mn/commands/blob/main/markdown-cheatsheet-online.pdf),bambar1012@gmail.com ) html 
 
-* А.Амарбаяр :computer:
+* :computer: А.Амарбат ([github.com](https://github.com/git1234mn/commands/blob/main/markdown-cheatsheet-online.pdf),it_info@asiapharma.mn) 'javascript'
