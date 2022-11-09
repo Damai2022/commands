@@ -1,5 +1,7 @@
 ## Git commands
-git командуудын тайлбар,тусламжийн репо
+
+git командуудын тайлбар,тусламжийн репо [эндээс үзнэ үү](apteka.mn)
+
 git эхнээс нь дуустал гэдэг репо юм.
 
 Командуудын жагсаалт ✨
@@ -16,17 +18,17 @@ git branch **Бүх бранчуудыг жагсаалтаар харах**
 
 git branch -a **Бүх бранчуудыг үзүүлнэ**
 
-git branch --merge merge хийгдсэн бранчуудын нэрийг үзүүлнэ
+git branch --merge **merge хийгдсэн бранчуудын нэрийг үзүүлнэ**
 
-git branch --no-merge merge хийгдээгүй бранчуудын нэрийг үзүүлнэ
+git branch --no-merge **merge хийгдээгүй бранчуудын нэрийг үзүүлнэ**
 
-git branch -r Remote бранчуудыг үзүүлнэ
+git branch -r **Remote бранчуудыг үзүүлнэ**
 
-git branch -vv Tracking бранчуудыг үзүүлнэ
+git branch -vv **Tracking бранчуудыг үзүүлнэ**
 
-git cherry-pick [hash_code] hash_code кодтой коммитыг одоо байгаа бранч руу шууд оруулж ирнэ v79|02:34
+git cherry-pick [hash_code] **hash_code кодтой коммитыг одоо байгаа бранч руу шууд оруулж ирнэ v79|02:34**
 
-git commit [--amend] Сүүлийн коммитыг засварлах, сайжруулах v61|02:30
+git commit [--amend] **Сүүлийн коммитыг засварлах, сайжруулах v61|02:30**
 
 git config user.name [name] Өөрийн нэрийг энд тохируулна (github username байж болно)
 
