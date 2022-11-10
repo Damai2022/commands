@@ -1,4 +1,4 @@
-## Git commands :octocat:
+:octocat: ## Git commands :octocat:
 
 git командуудын тайлбар,тусламжийн репо [эндээс үзнэ үү](www.apteka.mn)
 
