@@ -30,7 +30,7 @@ git cherry-pick [hash_code] **hash_code кодтой коммитыг одоо �
 
 git commit [--amend] **Сүүлийн коммитыг засварлах, сайжруулах v61|02:30**
 
-git config user.name [name] Өөрийн нэрийг энд тохируулна (github username байж болно)
+git config user.name [name] Өөрийн нэрийг энд тохируулна (github username байж болно)'v47|22:27'
 
 git config user.email [email_address] Өөрийн имэйлийг энд тохируулна (github username ээ тавьж github руу push хийнэ)
 
